@@ -1,0 +1,2 @@
+# premium-guillotine-shear-001-guillotine-shear-building-pl
+Tired of metal offcuts piling up and losing track of your shear settings? Stop guessing which plate dimensions you used last week—your cutting workflow deserves a command center, not a sticky note.  This Notion template eliminates the chaos of managing guillotine shear projects by centralizing every plate, cut, and build spec in one place. No more
